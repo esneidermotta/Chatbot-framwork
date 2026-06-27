@@ -72,3 +72,8 @@ npm install --save convostack
 ## Documentation
 
 To see the full documentation check out our docs site at [docs.convostack.ai](https://docs.convostack.ai).
+
+## Contributer
+
+Esneider Motta - Senior Full Stack Developer
+
